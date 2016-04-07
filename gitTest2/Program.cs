@@ -9,6 +9,9 @@ namespace gitTest2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello git");
+
+            Console.WriteLine("I'm come.");
         }
     }
 }
